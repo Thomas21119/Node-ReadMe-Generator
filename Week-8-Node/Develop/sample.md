@@ -1,14 +1,14 @@
 # Node-ReadMe-Generator
-# \thrb r
+# g rgt
 ## Description
-tyb rtg btr
+b rtb
 ## Installation
- bttrb tr
+ rt
 ## Usage
-b grtbtr
+b 
 ## License
-GNU General Public License v3.0
+Apache License 2.0 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 ## Contributing
-t rbrt
+rt 
 ## Tests
-d fgbr 
+br
