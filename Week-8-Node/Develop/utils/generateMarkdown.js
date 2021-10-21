@@ -56,27 +56,41 @@ function generateMarkdown(data) {
 [Questions](#questions)
 
 
-<a name="description" /> 
+<a name="description"> </a>
+
 ## Description
+
 ${data.description}
-<a name="installation" /> 
+<a name="installation"> </a>
+
 ## Installation
+
 ${data.installationInstructions}
-<a name="usage" /> 
+<a name="usage"> </a>
+
 ## Usage
+
 ${data.usageInformation}
-<a name="license" /> 
+<a name="license"> </a>
+
 ## License
+
 ${data.license} 
 
-<a name="contributing" /> 
+<a name="contributing"> </a>
+
 ## Contributing
+
 ${data.contributionGuidelines}
-<a name="tests" /> 
+<a name="tests"> </a>
+
 ## Tests
+
 ${data.testInstructions}
-<a name="questions" /> 
+<a name="questions"> </a>
+
 ## Questions
+
 reach me at: https://github.com/${data.githubUser} or email me at ${data.emailAddress}`;
 
 }
