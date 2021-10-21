@@ -39,7 +39,7 @@ const questions = inquirer.prompt([
     {
         type: 'input',
         name: 'githubUser',
-        message: 'Please Enter Your Github Username'
+        message: 'Please Enter Your Github Username?'
     },    {
         type: 'input',
         name: 'emailAddress',
