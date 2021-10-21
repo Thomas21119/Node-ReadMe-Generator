@@ -1,4 +1,4 @@
-# Node ReadMe generator                      [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# b fg                      [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Table of Contents:
 [Description|](#description)
 [Installation|](#installation)
@@ -13,17 +13,17 @@
 
 ## Description
 
-This helps users create professional readme's based on their inputs
+br
 <a name="installation"> </a>
 
 ## Installation
 
-this is installable using git clone and npm install
+ tbg
 <a name="usage"> </a>
 
 ## Usage
 
-this is used by navigating to the correct terminal location and using 'node index.js'
+f
 <a name="license"> </a>
 
 ## License
@@ -33,14 +33,14 @@ This work is covered under the MIT License so use under the given rules. You may
 
 ## Contributing
 
-this project was completed by Thomas Wittwer
+fb 
 <a name="tests"> </a>
 
 ## Tests
 
-This project had lots of trial and error and testing with classmates
+fdgc
 <a name="questions"> </a>
 
 ## Questions
 
-reach me at: https://github.com/Thomas21119 or email me at thomas.wittwer2018@gmail.com
+reach me at: https://github.com/vcb  or email me at r
