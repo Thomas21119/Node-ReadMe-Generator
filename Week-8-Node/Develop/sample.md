@@ -1,14 +1,17 @@
-# Node-ReadMe-Generator
-# g rgt
+# readme gen 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Description
-b rtb
+read me generator
 ## Installation
- rt
+node index.js in command line to run
 ## Usage
-b 
+run on console
 ## License
-Apache License 2.0 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+MIT License 
+
 ## Contributing
-rt 
+tom
 ## Tests
-br
+dunno
+## Questions
+reach me at: https://github.com/Thomas21119 or email me at ekfjn 

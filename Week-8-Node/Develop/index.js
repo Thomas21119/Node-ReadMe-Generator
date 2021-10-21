@@ -37,6 +37,15 @@ const questions = inquirer.prompt([
         message: 'What is your Projects Test Instructions?'
     },
     {
+        type: 'input',
+        name: 'githubUser',
+        message: 'Please Enter Your Github Username'
+    },    {
+        type: 'input',
+        name: 'emailAddress',
+        message: 'What is your Email Address?'
+    },
+    {
         type: 'list',
         name: 'license',
         message: 'Choose the Licence used for this Project',
